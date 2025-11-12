@@ -1,4 +1,4 @@
-# EMIPredict AI - Financial Risk Assessment Platform  📊💼
+# EMIPredict AI - Financial Risk Assessment Platform  📊
 
 ---
 
